@@ -1,0 +1,56 @@
+{
+  "name": "vue-qqmap",
+  "version": "0.0.1",
+  "main": "lib/vue-qqmap.umd.min.js",
+  "private": false,
+  "description": "基于Vue3的腾讯地图地址可视化拾取、描点，路径规划插件",
+  "keyword": "vue3，qqmap，腾讯地图",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "lib": "vue-cli-service build --target lib --name vue-qqmap --dest lib packages/qq-map/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "lodash-es": "^4.17.21",
+    "qs": "^6.10.1",
+    "vue": "^3.0.0",
+    "vue-jsonp": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "pug": "^3.0.2",
+    "pug-html-loader": "^1.1.5",
+    "pug-plain-loader": "^1.1.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
