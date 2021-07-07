@@ -2,6 +2,7 @@
   "name": "vue-qqmap",
   "version": "0.0.1",
   "main": "lib/vue-qqmap.umd.min.js",
+  "author": "cuteCloud",
   "private": false,
   "description": "基于Vue3的腾讯地图地址可视化拾取、描点，路径规划插件",
   "keyword": "vue3，qqmap，腾讯地图",
