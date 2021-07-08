@@ -6,6 +6,7 @@
   "private": false,
   "description": "基于Vue3的腾讯地图地址可视化拾取、描点，路径规划插件",
   "keyword": "vue3，qqmap，腾讯地图,vqqmap",
+  "homepage": "https://github.com/cuteCloud/vue-qqmap",
   "keywords": [
     "vue3",
     "vuejs",
