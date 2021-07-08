@@ -6,7 +6,7 @@
 
 [DEMO-todo···](https://blog.only1314.cn/)
 
-![效果展示](https://static.only1314.cn/public/images/vqqmap-demo.jpg "效果展示")
+![效果展示](https://static.only1314.cn/public/images/vmap-demo01.jpg "效果展示")
 
 ## Features
 1. Simple and easy to use, light and beautiful
