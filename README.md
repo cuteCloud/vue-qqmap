@@ -63,6 +63,21 @@ Type: `Number`<br>
 Required: `false`<br>
 Default: `400`<br>
 
+##### showHeader
+Type: `Boolean`<br>
+Required: `false`<br>
+Default: `true`<br>
+
+##### showFooter
+Type: `Boolean`<br>
+Required: `false`<br>
+Default: `true`<br>
+
+##### showBorder
+Type: `Boolean`<br>
+Required: `false`<br>
+Default: `true`<br>
+
 ##### zoom
 Type: `Number`<br>
 Required: `false`<br>
