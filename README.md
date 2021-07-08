@@ -8,6 +8,11 @@
 
 ![效果展示](https://static.only1314.cn/public/images/vqqmap-demo.jpg "效果展示")
 
+## Features
+1. Simple and easy to use, light and beautiful
+2. Support native map all configuration
+3. More features will be provided in the future
+
 ## Installation
 ### With npm
 ``` bash
@@ -42,7 +47,7 @@ $ npm install vue-qqmap
   ...
 ```
 #### All options
-Tencent map native API will be fully supported in succession, but currently only support the following configuration
+In addition to the following configuration, you can also use all Tencent Map Options
 ##### key
 Type: `String`<br>
 Required: `true`<br>
@@ -58,10 +63,13 @@ Type: `Number`<br>
 Required: `false`<br>
 Default: `400`<br>
 
-## Features
-1. Simple and easy to use, light and beautiful
-2. The installation is provided as' NPM '
-3. More features will be provided in the future
+##### zoom
+Type: `Number`<br>
+Required: `false`<br>
+Default: `12.2`<br>
+
+Of course，you can use other tencent map options，[ look more！ ](https://lbs.qq.com/webApi/javascriptGL/glDoc/docIndexMap#2)
+
 
 
 ## Events
