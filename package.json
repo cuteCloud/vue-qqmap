@@ -1,6 +1,6 @@
 {
   "name": "vue-qqmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/vue-qqmap.umd.min.js",
   "author": "cuteCloud",
   "private": false,
