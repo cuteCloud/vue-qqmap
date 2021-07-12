@@ -12,7 +12,7 @@
 - [English](https://github.com/cuteCloud/vue-qqmap/blob/master/README.en.md)
 
 
-![效果展示](http://static.cutetool.cn/vqqmap01.jpg "效果展示")
+![效果展示](https://static.only1314.cn/public/images/vqqmap01.jpg "效果展示")
 
 ## 特征
 1. TS编写，高效且轻量
