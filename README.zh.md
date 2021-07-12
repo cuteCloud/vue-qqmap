@@ -8,8 +8,8 @@
 > 基于Vue3的腾讯地图可视化拾取、描点，路径规划插件<br>
 ## 语言
 
-- [中文](https://github.com/cuteCloud/vue-qqmap/blob/master/README.md)
-- [English](https://github.com/cuteCloud/vue-qqmap/blob/master/README.en.md)
+- [中文](https://github.com/cuteCloud/vue-qqmap/blob/master/README.zh.md)
+- [English](https://github.com/cuteCloud/vue-qqmap/blob/master/README.md)
 
 
 ![效果展示](https://static.only1314.cn/public/images/vqqmap01.jpg "效果展示")
