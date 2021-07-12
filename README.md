@@ -1,6 +1,6 @@
 # vue-qqmap
 <p align="center">
-  <img src="http://static.cutetool.cn/vqqmap-logo.png" width="200px">
+  <img src="https://static.only1314.cn/public/images/vqqmap-logo.png" width="200px">
 </p>
 <p align="center">Tencent Map Plugin for Vue 3.x</p>
 
@@ -12,7 +12,7 @@
 - [English](https://github.com/cuteCloud/vue-qqmap/blob/master/README.md)
 
 
-![Results show](http://static.cutetool.cn/vqqmap01.jpg "Results show")
+![Results show](https://static.only1314.cn/public/images/vqqmap01.jpg "Results show")
 
 ## Features
 1. Simple and easy to use, light and beautiful
