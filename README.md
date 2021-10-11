@@ -15,7 +15,7 @@
 ![Results show](https://static.only1314.cn/public/images/vqqmap01.jpg "Results show")
 
 ## Features
-1. Simple and easy to use, light and beautiful
+1. Simple and easy to use, light and beautiful 
 2. Support native map all configuration
 3. More features will be provided in the future
 
