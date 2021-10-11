@@ -14,6 +14,8 @@
 
 ![效果展示](https://static.only1314.cn/public/images/vqqmap01.jpg "效果展示")
 
+[DEMO 演示](https://codesandbox.io/s/goofy-northcutt-y0sz7)
+
 ## 特征
 1. TS编写，高效且轻量
 2. 使用简便,轻量美观
