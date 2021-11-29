@@ -111,6 +111,11 @@ Type: `Number`<br>
 Required: `false`<br>
 Default: `12.2`<br>
 
+###### disabledClick
+Type: `Number`<br>
+Required: `false`<br>
+Default: `false`<br>
+
 Of course，you can use other tencent map options，[ look more！ ](https://lbs.qq.com/webApi/javascriptGL/glDoc/docIndexMap#2)
 
 ## **Events**

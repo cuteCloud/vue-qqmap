@@ -113,6 +113,11 @@ Type: `Number`<br>
 Required: `false`<br>
 Default: `12.2`<br>
 
+###### disabledClick
+Type: `Number`<br>
+Required: `false`<br>
+Default: `false`<br>
+
 当然，你可以使用腾讯地图原生的所有options，[ 查看更多！ ](https://lbs.qq.com/webApi/javascriptGL/glDoc/docIndexMap#2)
 
 ## **事件**
