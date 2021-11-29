@@ -114,7 +114,7 @@ Required: `false`<br>
 Default: `12.2`<br>
 
 ###### disabledClick
-Type: `Number`<br>
+Type: `Boolean`<br>
 Required: `false`<br>
 Default: `false`<br>
 
