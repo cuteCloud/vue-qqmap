@@ -1,6 +1,6 @@
 {
   "name": "vue-qqmap",
-  "version": "1.0.8",
+  "version": "1.1.1",
   "main": "lib/vue-qqmap.umd.min.js",
   "license": "MIT",
   "author": "cuteCloud",
@@ -31,7 +31,7 @@
     "typescript": "^4.3.5",
     "vue": "^3.2.0",
     "vue-jsonp": "^2.0.0",
-    "vue-qqmap": "^1.0.7"
+    "vue-qqmap": "^1.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
